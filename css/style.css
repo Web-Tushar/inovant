@@ -14,3 +14,8 @@ a{
   width: 1170px;
   margin: 0 auto;
 }
+
+.nav_wrapper{
+  display: flex;
+  justify-content: space-between;
+}
